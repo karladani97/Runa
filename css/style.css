@@ -12,6 +12,8 @@
 
 body{
 	font-size: 14px;
+	font-family: "Catamaran", sans-serif;
+	color: var(--color-general);
 }
 header{
 	background-color: #000;
@@ -26,6 +28,16 @@ header{
 	padding: 7% 0 10%;
 }
 
+#banners{
+	padding: 3% 0;
+	text-align: center
+}
+
+#product{
+	padding: 3% 0;
+	text-align: center;
+	
+}
 
 footer{
 	background-color: #323232;
